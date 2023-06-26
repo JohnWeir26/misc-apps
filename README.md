@@ -21,3 +21,25 @@ My advice is to apply for jobs and get some experience in tier 1 tech support, i
 As far as certifications, I would recommend CompTIA A+ for IT.
 
 I think some potential career paths and growth opportunities include artificial intelligence, cybersecurity, and open source intelligence.
+
+
+
+Introduce yourself and mention background. 
+
+How did you get started in the field of IT, and what motivated you to pursue a career in this industry?
+
+Can you describe your typical workday and the specific responsibilities you have as an IT professional?
+
+What are the essential technical skills and knowledge areas that you believe are important for success in the IT industry today?
+
+How do you stay updated with the latest trends and advancements in the IT field?
+Could you share an example of a challenging project or problem you faced in your career and how you approached solving it?
+
+In your opinion, what are the most significant challenges and opportunities currently facing IT professionals?
+How do you effectively collaborate with other teams or departments to ensure the successful implementation of IT projects?
+
+What advice do you have for someone who is considering a career transition into the IT industry, especially with a non-technical background?
+
+Are there any specific certifications or training programs that you would recommend for someone who wants to enhance their IT skills?
+
+Can you provide insights into the potential career paths and growth opportunities within the IT field, and what steps one can take to progress in their career?
