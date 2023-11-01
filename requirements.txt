@@ -1,0 +1,4 @@
+pip install pypokedex==1.0.0
+pip install tkinter
+pip install urllib3 
+pip install pillow 
